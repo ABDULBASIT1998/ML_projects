@@ -1,4 +1,4 @@
 ## Machine learning projects
-1. Single Variable Linear Regression Model
-2. Multi Variable Linear Regression Model
+1. Single & MultiVariable Linear Regression Model
+2. Logistic Regression Model
 ML projects for beginners
