@@ -6,7 +6,7 @@
 5. Random Forest
 6. KMeans Clustering
 7. Naive Bayes
-
+8. KNN
 
 
 
