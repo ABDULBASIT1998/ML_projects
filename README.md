@@ -5,6 +5,7 @@
 4. Support Vector Machines
 5. Random Forest
 6. KMeans Clustering
+7. Naive Bayes
 
 
 
